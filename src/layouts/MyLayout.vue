@@ -11,14 +11,14 @@
           <q-icon name="menu" />
         </q-btn>
         <q-toolbar-title>{{ $store.getters.blogName }}</q-toolbar-title>
-        <iframe
-          src="https://ghbtns.com/github-btn.html?user=ttop5&repo=issue-blog&type=star&count=true"
+        <!-- <iframe
+          src="https://ghbtns.com/github-btn.html?user=ChinaBoy0618&repo=issue-blog&type=star&count=true"
           frameborder="0"
           scrolling="0"
           width="100px"
           height="20px"
         >
-        </iframe>
+        </iframe> -->
       </q-toolbar>
     </q-header>
 
@@ -67,7 +67,7 @@
       <br />
       <br />
       <div class="absolute-bottom text-center text-grey-6">
-        © {{ year }} <a class="text-grey-6" href="https://ttop5.net/issue-blog">ttop5</a>
+        © {{ year }} <a class="text-grey-6" href="https://ChinaBoy0618.net/issue-blog">ttop5</a>
       </div>
     </q-page-container>
 

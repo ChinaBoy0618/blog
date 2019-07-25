@@ -1,8 +1,8 @@
 export default {
-  username: 'ttop5', // GitHub 用户名
-  repository: 'blog', // 记录 issue 的仓库名
-  accessToken: 'MGNhMTQ3YTRlMGQ0NGFkM2JjZTdmMTI5MTQzYWFkY2ZjMWQ0NmMyNg==', // 经过 base64 加密后的 GitHub Token
-  blogName: 'ISSUE BLOG', // 给你的博客取个名字
+  username: 'ChinaBoy0618', // GitHub 用户名
+  repository: 'issue-blog', // 记录 issue 的仓库名
+  accessToken: 'NDRhYmNhNTk5MTUwZjdjNjFjMmNhNDAzNWVhNzU0YzExOGNiNmI5Ng==', // 经过 base64 加密后的 GitHub Token
+  blogName: 'Touch Site', // 给你的博客取个名字
   /**
    * 定制左侧菜单链接部分
    * 格式：
@@ -17,39 +17,39 @@ export default {
   links: [
     {
       title: 'RSS',
-      subTile: 'rsshub.app/github/issue/ttop5/blog',
+      subTile: 'rsshub.app/github/issue/ChinaBoy0618/issue-blog',
       icon: 'fas fa-rss-square',
-      url: 'https://rsshub.app/github/issue/ttop5/blog',
+      url: 'https://rsshub.app/github/issue/ChinaBoy0618/issue-blog',
     },
     {
       title: 'Email',
-      subTile: 'ttop5@qq.com',
+      subTile: '826679571@qq.com',
       icon: 'fas fa-envelope',
-      url: 'mailto:ttop5@qq.com',
+      url: 'mailto:826679571@qq.com',
     },
     {
       title: 'Home',
-      subTile: 'ttop5.net',
+      subTile: 'ChinaBoy0618.net',
       icon: 'fas fa-home',
-      url: 'https://ttop5.net',
+      url: 'https://ChinaBoy0618.net',
     },
     {
       title: 'GitHub',
-      subTile: 'github.com/ttop5',
+      subTile: 'github.com/ChinaBoy0618',
       icon: 'fab fa-github',
-      url: 'https://github.com/ttop5',
+      url: 'https://github.com/ChinaBoy0618',
     },
     {
       title: 'Steam',
-      subTile: 'steamcommunity.com/id/ttop5',
+      subTile: 'steamcommunity.com/id/ChinaBoy0618',
       icon: 'fab fa-steam',
-      url: 'https://steamcommunity.com/id/ttop5',
+      url: 'https://steamcommunity.com/id/ChinaBoy0618',
     },
     {
       title: 'DouBan',
-      subTile: 'douban.com/people/ttop5',
+      subTile: 'douban.com/people/ChinaBoy0618',
       icon: 'img:statics/douban.svg',
-      url: 'https://www.douban.com/people/ttop5',
+      url: 'https://www.douban.com/people/ChinaBoy0618',
     },
   ],
 };

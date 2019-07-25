@@ -4,7 +4,7 @@
   "description": "github issue blog",
   "productName": "ISSUE BLOG",
   "cordovaId": "org.cordova.quasar.app",
-  "author": "ttop5 <ttop5@qq.com>",
+  "author": "ChinaBoy0618 <826679571@qq.com>",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue src",
@@ -18,7 +18,8 @@
     "github-markdown-css": "^3.0.1",
     "quasar": "^1.0.0",
     "timeago.js": "^4.0.0-beta.2",
-    "vue-i18n": "^8.0.0"
+    "vue-i18n": "^8.0.0",
+    "yarn": "^1.17.3"
   },
   "devDependencies": {
     "@commitlint/cli": "^8.1.0",
